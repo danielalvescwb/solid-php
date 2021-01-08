@@ -1,0 +1,15 @@
+{
+    "name": "dgup/messenger_dip",
+    "authors": [
+        {
+            "name": "Daniel",
+            "email": "danielalvescwb@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}

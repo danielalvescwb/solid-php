@@ -1,0 +1,15 @@
+{
+    "name": "familiasantos/polygon",
+    "authors": [
+        {
+            "name": "Daniel",
+            "email": "danielalvescwb@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
